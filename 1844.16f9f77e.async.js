@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgbeata=self.webpackChunkgbeata||[]).push([[1844,7410],{63800:function(r,e,t){t.r(e);var _=t(10214),u=t(62273),s=t(52983),n=t(97458);(0,u.registerTableRender)("star",function(E){var a=E.text;return(0,n.jsx)(_.Z,{count:Number(a+1),defaultValue:Number(a+1),disabled:!0})})}}]);
